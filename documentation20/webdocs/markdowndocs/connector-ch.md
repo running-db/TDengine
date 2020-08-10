@@ -936,7 +936,7 @@ TDengine提供了GO驱动程序`taosSql`. `taosSql`实现了GO语言的内置接
 ```Go
 import (
     "database/sql"
-    _ "github.com/taosdata/driver-go/taoSql"
+    _ "github.com/taosdata/driver-go/taosSql"
 )
 ```
 ### 常用API
